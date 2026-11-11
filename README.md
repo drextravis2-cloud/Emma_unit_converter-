@@ -33,4 +33,4 @@ Choose an option: 9
 - How to store functions in a dictionary to build a clean menu.
 
 ## Author
-Usuwa Favour, ND1 Mechatronics Engineering, YabaTech.
+Emmanuel Okonye uchechukwu, ND1 Mechatronics Engineering, YabaTech.
